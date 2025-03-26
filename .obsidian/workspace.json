@@ -20,8 +20,24 @@
               "icon": "lucide-file",
               "title": "page 2"
             }
+          },
+          {
+            "id": "9113b006449b261a",
+            "type": "leaf",
+            "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": ".obsidian/workspace.json",
+                "bFile": ".obsidian/workspace.json",
+                "aRef": "HEAD",
+                "bRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: workspace.json"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,7 +110,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "page 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for page 2"
+              "title": "Backlinks"
             }
           },
           {
@@ -113,12 +128,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "page 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from page 2"
+              "title": "Outgoing links"
             }
           },
           {
@@ -142,13 +156,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "page 2.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of page 2"
+              "title": "Outline"
             }
           },
           {
@@ -179,15 +192,54 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "04c78d9fb0a4ab7e",
+  "active": "9113b006449b261a",
   "lastOpenFiles": [
-    "page 1.md",
+    "index.md",
+    "index.md",
     "page 2.md",
-    "Test Vault.md",
-    "Untitled.canvas",
-    "2025-03-25.md",
-    "Pasted image 20250325233529.png",
-    "create a link.md",
-    "page 3.md"
+    "quartz/content/index.md",
+    "quartz/node_modules/@img/sharp-libvips-darwin-x64/README.md",
+    "quartz/node_modules/@img/sharp-libvips-darwin-x64/versions.json",
+    "quartz/node_modules/@img/sharp-libvips-darwin-x64/package.json",
+    "quartz/node_modules/mathjax-full/README.md",
+    "quartz/node_modules/mathjax-full/CONTRIBUTING.md",
+    "quartz/node_modules/mathjax-full/tslint.json",
+    "quartz/node_modules/mathjax-full/tsconfig.json",
+    "quartz/node_modules/mathjax-full/package.json",
+    "quartz/node_modules/pixi.js/lib/environment-webworker/webworkerExt.d.ts",
+    "quartz/node_modules/pixi.js/lib/environment-webworker/webworkerAll.d.ts",
+    "quartz/node_modules/pixi.js/lib/environment-webworker/WebWorkerAdapter.d.ts",
+    "quartz/node_modules/pixi.js/lib/advanced-blend-modes/VividLightBlend.d.ts",
+    "quartz/node_modules/pixi.js/lib/utils/utils.d.ts",
+    "quartz/node_modules/js-binary-schema-parser/README.md",
+    "quartz/node_modules/hast-util-from-html/node_modules/@types/unist/README.md",
+    "quartz/node_modules/fetch-ponyfill/node_modules/node-fetch/README.md",
+    "quartz/node_modules/fetch-ponyfill/node_modules/node-fetch/LICENSE.md",
+    "quartz/node_modules/hast-util-from-html/node_modules/vfile-message/readme.md",
+    "quartz/node_modules/hast-util-raw/node_modules/@types/unist/README.md",
+    "quartz/node_modules/gifuct-js/README.md",
+    "quartz/node_modules/hast-util-to-html/node_modules/property-information/readme.md",
+    "quartz/node_modules/hast-util-to-jsx-runtime/node_modules/property-information/readme.md",
+    "quartz/node_modules/hast-util-from-html/node_modules/unist-util-stringify-position/readme.md",
+    "quartz/node_modules/hast-util-from-parse5/node_modules/@types/unist/README.md",
+    "quartz/node_modules/hast-util-to-jsx-runtime/node_modules/vfile-message/readme.md",
+    "quartz/node_modules/hast-util-to-html/node_modules/@types/unist/README.md",
+    "quartz/node_modules/hast-util-to-jsx-runtime/node_modules/unist-util-stringify-position/readme.md",
+    "quartz/node_modules/hast-util-to-jsx-runtime/node_modules/@types/unist/README.md",
+    "quartz/node_modules/linebreak/node_modules/base64-js/README.md",
+    "quartz/node_modules/hast-util-to-text/node_modules/@types/unist/README.md",
+    "quartz/node_modules/mdast-util-from-markdown/node_modules/@types/unist/README.md",
+    "quartz/node_modules/mdast-util-mdx-jsx/node_modules/unist-util-stringify-position/readme.md",
+    "quartz/node_modules/cli-spinner/img/spinner.gif",
+    "quartz/node_modules/gifuct-js/demo/jblack.gif",
+    "quartz/node_modules/gifuct-js/demo/horses.gif",
+    "quartz/node_modules/gifuct-js/demo/dog.gif",
+    "quartz/node_modules/js-binary-schema-parser/example/horses.gif",
+    "quartz/node_modules/js-binary-schema-parser/example/dog.gif",
+    "quartz/node_modules/js-binary-schema-parser/example/box.gif",
+    "quartz/quartz/static/og-image.png",
+    "quartz/quartz/static/icon.png",
+    "quartz/docs/images/social-image-preview-light.png",
+    "Untitled.canvas"
   ]
 }
