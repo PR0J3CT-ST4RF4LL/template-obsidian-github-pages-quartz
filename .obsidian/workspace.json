@@ -25,15 +25,14 @@
             "id": "9113b006449b261a",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
-                "aRef": "HEAD",
-                "bRef": ""
+                "file": "page 3.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: workspace.json"
+              "icon": "lucide-file",
+              "title": "page 3"
             }
           }
         ],
@@ -110,6 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "page 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for page 3"
             }
           },
           {
@@ -128,11 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "page 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from page 3"
             }
           },
           {
@@ -156,12 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "page 3.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of page 3"
             }
           },
           {
@@ -195,7 +197,7 @@
   "active": "9113b006449b261a",
   "lastOpenFiles": [
     "index.md",
-    "index.md",
+    "page 1.md",
     "page 2.md",
     "quartz/content/index.md",
     "quartz/node_modules/@img/sharp-libvips-darwin-x64/README.md",
@@ -229,7 +231,6 @@
     "quartz/node_modules/linebreak/node_modules/base64-js/README.md",
     "quartz/node_modules/hast-util-to-text/node_modules/@types/unist/README.md",
     "quartz/node_modules/mdast-util-from-markdown/node_modules/@types/unist/README.md",
-    "quartz/node_modules/mdast-util-mdx-jsx/node_modules/unist-util-stringify-position/readme.md",
     "quartz/node_modules/cli-spinner/img/spinner.gif",
     "quartz/node_modules/gifuct-js/demo/jblack.gif",
     "quartz/node_modules/gifuct-js/demo/horses.gif",

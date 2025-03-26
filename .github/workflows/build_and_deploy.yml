@@ -17,6 +17,11 @@ jobs:
         uses: actions/configure-pages@v5
       - name: Build
         uses: konstfish/quartz-build-action@v4
+        with: 
+          page_title: "Quartz"
+          quartz_config: .github/quartz/quartz.config.ts
+          quartz_layout: .github/quartz/quartz.layout.ts
+          quartz_icon:   .github/quartz/favicon.png
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
   deploy:
